@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sergey Kotov
 
-<!--
-**kono8i420003-a11y/kono8i420003-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-assisted dev / no-code automation. Telegram bots, Supabase, Vercel, n8n. MVP за 1–3 дня.
 
-Here are some ideas to get you started:
+- Telegram: [@kono8i420003](https://t.me/kono8i420003)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[stal](https://github.com/kono8i420003-a11y/stal)** — лендинг школы рукопашного боя «СТАЛЬ»: форма заявок, Telegram-уведомления, хранение лидов в Supabase, защищённая админ-панель. [Демо](https://stal-seven.vercel.app)
+- **[betta](https://github.com/kono8i420003-a11y/betta)**
+- **[proekt77](https://github.com/kono8i420003-a11y/proekt77)**
+- **[serj](https://github.com/kono8i420003-a11y/serj)** — [демо](https://serj.vercel.app)
+
+## Стек
+
+React · Vite · TypeScript · Tailwind CSS · Supabase · Vercel · Telegram Bot API
